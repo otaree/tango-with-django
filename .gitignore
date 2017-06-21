@@ -3,5 +3,5 @@
 *.key
 __pycache__
 db.sqlite3
-/media
+.coverage
 .DS_Store
